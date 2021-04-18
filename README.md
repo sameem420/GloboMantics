@@ -1,2 +1,0 @@
-# schoolapp
-School management system
